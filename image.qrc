@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/BECB106F6457139382050947CCEDF85D.jpg</file>
+        <file>image/D575BAE62A54D3B58EDC77B39C4B25F5.jpg</file>
+        <file>image/blank.png</file>
+        <file>image/end.jpg</file>
+        <file>image/shuiguo.jpg</file>
+        <file>image/start.jpg</file>
+        <file>image/title.jpg</file>
+        <file>image/1.png</file>
+        <file>image/2.png</file>
+        <file>image/3.png</file>
+        <file>image/4.png</file>
+        <file>image/5.png</file>
+        <file>image/6.png</file>
+        <file>image/7.png</file>
+        <file>image/8.png</file>
+        <file>image/9.png</file>
+        <file>image/10.png</file>
+        <file>image/11.png</file>
+        <file>image/12.png</file>
+        <file>image/13.png</file>
+        <file>image/14.png</file>
+        <file>image/15.png</file>
+        <file>image/16.png</file>
+        <file>image/17.png</file>
+        <file>image/18.png</file>
+        <file>image/19.png</file>
+        <file>image/20.png</file>
+        <file>image/21.png</file>
+        <file>image/22.png</file>
+        <file>image/23.png</file>
+        <file>image/24.png</file>
+        <file>image/25.png</file>
+        <file>sound/backgrand.mp3</file>
+        <file>sound/pair.wav</file>
+        <file>sound/release.wav</file>
+        <file>sound/select.wav</file>
+    </qresource>
+</RCC>
